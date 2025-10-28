@@ -12,8 +12,4 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.JustTest"
         tools:targetApi="31" />
-
-    //Just test
-    // Test second
-
 </manifest>
